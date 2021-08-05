@@ -1,4 +1,4 @@
-### Oi, eu sou o Breno 😁
+### Olá, seja bem-vindo 😁
 * 💻 Técnico em Informática - IFMS JD
 * 📚 Estudando Python e Flutter
 ##
