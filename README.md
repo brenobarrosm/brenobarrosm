@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo 😁
 * 💻 Técnico em Informática - IFMS JD
-* 📚 Estudando Python e Flutter
+* 📚 Estudando Python
 ##
 
  <div>
