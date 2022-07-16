@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindo!
 * 💻 Técnico em Informática - IFMS JD
-* ⌨ Desenvolvedor Python Back-End (Django)
-* 📊 Cursando Tecnólogo em Big Data e Inteligência Analítica - UCDB
+* 📊 Estudante de Análise de Dados
+* 📖 Cursando Tecnólogo em Big Data e Inteligência Analítica - UCDB
 ##
 
  <div>
