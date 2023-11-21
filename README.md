@@ -1,7 +1,6 @@
 ### Olá, seja bem-vindo!
-* 💻 Técnico em Informática - IFMS JD
-* 📊 Estudante de Análise de Dados
-* 📖 Cursando Tecnólogo em Big Data e Inteligência Analítica - UCDB
+* 📊 Graduado em Big Data e Inteligência Analítica - UCDB
+* 💻 Técnico em Informática - IFMS
 ##
  
 <div style="display: inline_block"><br>
