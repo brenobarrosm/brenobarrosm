@@ -1,4 +1,6 @@
 ### Olá, seja bem-vindo!
+* 🧠 Cursando Especialização em Machine Learning Engineering - FIAP
+* 👨‍💻 Cursando Ciência da Computação - UNINTER
 * 📊 Graduado em Big Data e Inteligência Analítica - UCDB
 * 💻 Técnico em Informática - IFMS
 ##
