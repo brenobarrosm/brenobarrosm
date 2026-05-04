@@ -1,5 +1,5 @@
 ### Olá, seja bem-vindo!
-* 🧠 Cursando Especialização em Machine Learning Engineering - FIAP
+* 🧠 Pós-graduado em Machine Learning Engineering - FIAP
 * 📊 Graduado em Big Data e Inteligência Analítica - UCDB
 * 💻 Técnico em Informática - IFMS
 ##
